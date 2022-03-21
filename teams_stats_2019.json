@@ -1,0 +1,212 @@
+[
+    {
+        "team_name": "Atlanta Hawks (ATL)",
+        "won_games_as_home_team": 3,
+        "won_games_as_visitor_team": 3,
+        "lost_games_as_home_team": 8,
+        "lost_games_as_visitor_team": 11
+    },
+    {
+        "team_name": "Boston Celtics (BOS)",
+        "won_games_as_home_team": 10,
+        "won_games_as_visitor_team": 8,
+        "lost_games_as_home_team": 1,
+        "lost_games_as_visitor_team": 6
+    },
+    {
+        "team_name": "Brooklyn Nets (BKN)",
+        "won_games_as_home_team": 7,
+        "won_games_as_visitor_team": 6,
+        "lost_games_as_home_team": 5,
+        "lost_games_as_visitor_team": 7
+    },
+    {
+        "team_name": "Charlotte Hornets (CHA)",
+        "won_games_as_home_team": 5,
+        "won_games_as_visitor_team": 4,
+        "lost_games_as_home_team": 8,
+        "lost_games_as_visitor_team": 8
+    },
+    {
+        "team_name": "Chicago Bulls (CHI)",
+        "won_games_as_home_team": 4,
+        "won_games_as_visitor_team": 4,
+        "lost_games_as_home_team": 9,
+        "lost_games_as_visitor_team": 8
+    },
+    {
+        "team_name": "Cleveland Cavaliers (CLE)",
+        "won_games_as_home_team": 3,
+        "won_games_as_visitor_team": 3,
+        "lost_games_as_home_team": 10,
+        "lost_games_as_visitor_team": 9
+    },
+    {
+        "team_name": "Dallas Mavericks (DAL)",
+        "won_games_as_home_team": 8,
+        "won_games_as_visitor_team": 9,
+        "lost_games_as_home_team": 6,
+        "lost_games_as_visitor_team": 2
+    },
+    {
+        "team_name": "Denver Nuggets (DEN)",
+        "won_games_as_home_team": 11,
+        "won_games_as_visitor_team": 6,
+        "lost_games_as_home_team": 3,
+        "lost_games_as_visitor_team": 5
+    },
+    {
+        "team_name": "Detroit Pistons (DET)",
+        "won_games_as_home_team": 7,
+        "won_games_as_visitor_team": 3,
+        "lost_games_as_home_team": 6,
+        "lost_games_as_visitor_team": 9
+    },
+    {
+        "team_name": "Golden State Warriors (GSW)",
+        "won_games_as_home_team": 2,
+        "won_games_as_visitor_team": 3,
+        "lost_games_as_home_team": 8,
+        "lost_games_as_visitor_team": 12
+    },
+    {
+        "team_name": "Houston Rockets (HOU)",
+        "won_games_as_home_team": 9,
+        "won_games_as_visitor_team": 8,
+        "lost_games_as_home_team": 3,
+        "lost_games_as_visitor_team": 5
+    },
+    {
+        "team_name": "Indiana Pacers (IND)",
+        "won_games_as_home_team": 10,
+        "won_games_as_visitor_team": 6,
+        "lost_games_as_home_team": 3,
+        "lost_games_as_visitor_team": 6
+    },
+    {
+        "team_name": "LA Clippers (LAC)",
+        "won_games_as_home_team": 13,
+        "won_games_as_visitor_team": 5,
+        "lost_games_as_home_team": 1,
+        "lost_games_as_visitor_team": 6
+    },
+    {
+        "team_name": "Los Angeles Lakers (LAL)",
+        "won_games_as_home_team": 10,
+        "won_games_as_visitor_team": 12,
+        "lost_games_as_home_team": 2,
+        "lost_games_as_visitor_team": 1
+    },
+    {
+        "team_name": "Memphis Grizzlies (MEM)",
+        "won_games_as_home_team": 3,
+        "won_games_as_visitor_team": 5,
+        "lost_games_as_home_team": 11,
+        "lost_games_as_visitor_team": 6
+    },
+    {
+        "team_name": "Miami Heat (MIA)",
+        "won_games_as_home_team": 11,
+        "won_games_as_visitor_team": 7,
+        "lost_games_as_home_team": 1,
+        "lost_games_as_visitor_team": 6
+    },
+    {
+        "team_name": "Milwaukee Bucks (MIL)",
+        "won_games_as_home_team": 12,
+        "won_games_as_visitor_team": 10,
+        "lost_games_as_home_team": 1,
+        "lost_games_as_visitor_team": 2
+    },
+    {
+        "team_name": "Minnesota Timberwolves (MIN)",
+        "won_games_as_home_team": 2,
+        "won_games_as_visitor_team": 7,
+        "lost_games_as_home_team": 10,
+        "lost_games_as_visitor_team": 6
+    },
+    {
+        "team_name": "New Orleans Pelicans (NOP)",
+        "won_games_as_home_team": 4,
+        "won_games_as_visitor_team": 2,
+        "lost_games_as_home_team": 9,
+        "lost_games_as_visitor_team": 10
+    },
+    {
+        "team_name": "New York Knicks (NYK)",
+        "won_games_as_home_team": 3,
+        "won_games_as_visitor_team": 2,
+        "lost_games_as_home_team": 10,
+        "lost_games_as_visitor_team": 10
+    },
+    {
+        "team_name": "Oklahoma City Thunder (OKC)",
+        "won_games_as_home_team": 7,
+        "won_games_as_visitor_team": 4,
+        "lost_games_as_home_team": 5,
+        "lost_games_as_visitor_team": 9
+    },
+    {
+        "team_name": "Orlando Magic (ORL)",
+        "won_games_as_home_team": 8,
+        "won_games_as_visitor_team": 3,
+        "lost_games_as_home_team": 6,
+        "lost_games_as_visitor_team": 8
+    },
+    {
+        "team_name": "Philadelphia 76ers (PHI)",
+        "won_games_as_home_team": 13,
+        "won_games_as_visitor_team": 5,
+        "lost_games_as_home_team": 0,
+        "lost_games_as_visitor_team": 7
+    },
+    {
+        "team_name": "Phoenix Suns (PHX)",
+        "won_games_as_home_team": 6,
+        "won_games_as_visitor_team": 5,
+        "lost_games_as_home_team": 9,
+        "lost_games_as_visitor_team": 5
+    },
+    {
+        "team_name": "Portland Trail Blazers (POR)",
+        "won_games_as_home_team": 5,
+        "won_games_as_visitor_team": 5,
+        "lost_games_as_home_team": 6,
+        "lost_games_as_visitor_team": 9
+    },
+    {
+        "team_name": "Sacramento Kings (SAC)",
+        "won_games_as_home_team": 6,
+        "won_games_as_visitor_team": 5,
+        "lost_games_as_home_team": 5,
+        "lost_games_as_visitor_team": 9
+    },
+    {
+        "team_name": "San Antonio Spurs (SAS)",
+        "won_games_as_home_team": 7,
+        "won_games_as_visitor_team": 4,
+        "lost_games_as_home_team": 7,
+        "lost_games_as_visitor_team": 7
+    },
+    {
+        "team_name": "Toronto Raptors (TOR)",
+        "won_games_as_home_team": 10,
+        "won_games_as_visitor_team": 7,
+        "lost_games_as_home_team": 3,
+        "lost_games_as_visitor_team": 5
+    },
+    {
+        "team_name": "Utah Jazz (UTA)",
+        "won_games_as_home_team": 9,
+        "won_games_as_visitor_team": 5,
+        "lost_games_as_home_team": 3,
+        "lost_games_as_visitor_team": 8
+    },
+    {
+        "team_name": "Washington Wizards (WAS)",
+        "won_games_as_home_team": 4,
+        "won_games_as_visitor_team": 4,
+        "lost_games_as_home_team": 6,
+        "lost_games_as_visitor_team": 11
+    }
+]
