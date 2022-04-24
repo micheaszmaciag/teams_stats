@@ -1,4 +1,3 @@
-# Micheasz Maciąg - Project solution
 
 The solution I'm forwarding consists of two main scripts:
 - main.py
